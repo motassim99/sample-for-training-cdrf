@@ -1,4 +1,4 @@
-package org.mehdi.model;
+package src.org.mehdi.model;
 
 public class User {
 
